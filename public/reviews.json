@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Jane Doe",
+        "reviews": "The beauty salon offered a fantastic experience with friendly, professional staff and a relaxing atmosphere. The treatments were top-notch and attention to detail was impressive. I'll definitely return and recommend this salon to anyone looking for a high-quality beauty service.",
+        "rating": 3
+    },
+    {
+        "name": "John David",
+        "reviews": "My visit was decent but could use improvement. The service was okay, though a bit rushed. The staff was polite, but the overall experience was not memorable. I hope they focus on improving the details for a better future visit.",
+        "rating": 2
+    },
+    {
+        "name": "MJ Doe",
+        "reviews": "I had a fantastic experience at the salon! The staff was skilled and attentive, ensuring a perfect service. The luxurious atmosphere made me feel pampered. Highly recommend this salon for anyone seeking exceptional beauty treatments.",
+        "rating": 5
+    },
+    {
+        "name": "Sarah Smith",
+        "reviews": "The salon impressed me with its exceptional service. The professional staff provided effective and relaxing treatments. The clean and stylish environment added to the overall enjoyment. I highly recommend this place for top-quality beauty services in a welcoming setting.",
+        "rating": 4
+    }
+]

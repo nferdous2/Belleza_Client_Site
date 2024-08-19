@@ -1,0 +1,141 @@
+{
+    "services": {
+      "haircuts": [
+        {
+          "name": "Clipper Cut",
+          "price": 30,
+          "description": "A haircut using clippers to achieve an ultra-short design.",
+          "duration": "30 min"
+        },
+        {
+          "name": "Kids Haircut",
+          "price": 20,
+          "description": "A haircut on a child age 10 & under.",
+          "duration": "30 min"
+        },
+        {
+          "category": "popular",
+          "name": "Haircut",
+          "price": 39,
+          "description": "A haircut, trim or shape on anyone over the age of 10.",
+          "duration": "60 min"
+        },
+        {
+          "category": "popular",
+          "name": "Bang Trim",
+          "price": 19,
+          "description": "A trim on the bang area. Shampoo, conditioner and scalp massage not included.",
+          "duration": "15 min"
+        },
+        {
+          "name": "Signature Haircut",
+          "price": 49,
+          "description": "A haircut, trim, shape on anyone over the age of 10 with a customized conditioning treatment.",
+          "duration": "1 hr 15 min"
+        }
+      ],
+      "makeupServices": [
+        {
+          "category": "popular",
+          "name": "Complimentary Touch-up",
+          "price": 30,
+          "description": "Complete your service with this quick touch up, or pop in and meet with an available service professional or retail beauty advisor.",
+          "duration": "15 min"
+        },
+        {
+          "name": "Everyday Makeup Application",
+          "price": 39,
+          "description": "Put your fresh face forward. This make up application will have you looking your best.",
+          "duration": "45 min"
+        },
+        {
+          "name": "Formal Makeup Application",
+          "price": 49,
+          "description": "A make up application that includes enhanced make up techniques for a more dramatic look.",
+          "duration": "60 min"
+        },
+        {
+          "name": "Cocktail Makeup",
+          "price": 55,
+          "description": "A make up application that includes enhanced make up techniques for a more dramatic look.",
+          "duration": "60 min"
+        },
+        {
+          "name": "Makeup Lesson",
+          "price": 150,
+          "description": "This informative and interactive hands-on experience is designed to educate you to achieve the look you've always wanted such as the perfect smoky eye.",
+          "duration": "2 hr 30 min"
+        }
+      ],
+      "browServices": [
+        {  "category": "popular",
+          "name": "Brow Wax & Style",
+          "price": 29,
+          "description": "Includes a brow consultation, wax & style.",
+          "duration": "20 min"
+        },
+        {
+          "name": "Brow Trim",
+          "price": 15,
+          "description": "Includes a brow consultation, trim & style.",
+          "duration": "20 min"
+        },
+        {
+          "name": "Brow Tweeze",
+          "price": 20,
+          "description": "Includes a brow consultation, tweeze & style.",
+          "duration": "20 min"
+        },
+        {  "category": "popular",
+          "name": "Bang Trim",
+          "price": 19,
+          "description": "A trim on the bang area. Shampoo, conditioner and scalp massage not included.",
+          "duration": "15 min"
+        },
+        {
+          "name": "Brow Tint",
+          "price": 15,
+          "description": "A custom color tint for your brows that lasts 3-4 weeks.",
+          "duration": "20 min"
+        }
+      ],
+      "nailServices": [
+        {
+          "name": "Cherie Manicure",
+          "price": 50,
+          "description": "Delicate cuticle work, buffing, and shaping. To finish, a relaxing hand massage, topped off with a perfect polish.",
+          "duration": "60 min"
+        },
+        {  "category": "popular",
+          "name": "Buff Manicure",
+          "price": 39,
+          "description": "Our natural look manicure – no polish, but all of the pampering.",
+          "duration": "20 min"
+        },
+        {
+          "name": "Gel Manicure",
+          "price": 49,
+          "description": "All the features of our Cherie manicure, but finish with nontoxic Gel Polish instead.",
+          "duration": "40 min"
+        },
+        {  "category": "popular",
+          "name": "Cherie Pedicure",
+          "price": 39,
+          "description": "Our natural look pedi – no polish, but all of the pampering. Revitalize tired feet.",
+          "duration": "30 min"
+        },
+        {
+          "name": "Buff Pedicure",
+          "price": 49,
+          "description": "Our natural look pedi – no polish, but all of the pampering. Revitalize tired feet.",
+          "duration": "30 min"
+        },
+        {
+          "name": "Gel Pedicure",
+          "price": 49,
+          "description": "All the features of our Cherie manicure, but finish with nontoxic Gel Polish instead.",
+          "duration": "60 min"
+        }
+      ]
+    }
+  }

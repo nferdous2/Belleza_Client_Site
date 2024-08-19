@@ -1,0 +1,154 @@
+{
+
+      "haircuts": [
+        {
+          "name": "Pixie Cut",
+          "price": 30,
+          "description": "A stylish and chic short haircut with clippers.",
+          "duration": "30 min",
+          "image": "https://i.pinimg.com/236x/72/a4/2a/72a42abc4211858963c05538436454cc.jpg"
+        },
+        {
+          "name": "Princess Cut",
+          "price": 20,
+          "description": "A cute and neat haircut for girls age 10 & under.",
+          "duration": "30 min",
+          "image": "https://i.pinimg.com/736x/d5/20/b2/d520b2b4d550f7a78aa5d49c8f8f960c.jpg"
+        },
+        {
+          "category": "popular",
+          "name": "Fringe Trim",
+          "price": 19,
+          "description": "A trim for the fringe area. Shampoo, conditioner, and scalp massage not included.",
+          "duration": "15 min",
+          "image": "https://federico.edu/wp-content/uploads/2020/04/Fringe-Pic-e1586890623692.jpg"
+        },
+        {
+          "name": "Elegant Layers",
+          "price": 49,
+          "description": "A layered haircut for anyone over the age of 10 with a customized conditioning treatment.",
+          "duration": "1 hr 15 min",
+          "image": "https://i.pinimg.com/736x/69/e5/44/69e544a0024bfede942f34a30787ece5.jpg"
+        }
+      ],
+      "makeupServices": [
+        {
+          "category": "popular",
+          "name": "Complimentary Touch-up",
+          "price": 30,
+          "description": "Complete your service with this quick touch up, or pop in and meet with an available service professional or retail beauty advisor.",
+          "duration": "15 min",
+          "image": "https://www.glam.com/img/gallery/inside-the-age-old-debate-which-comes-first-your-base-or-your-eye-makeup/intro-1683044751.webp"
+        },
+        {
+          "name": "Everyday Makeup Application",
+          "price": 39,
+          "description": "Put your fresh face forward. This make up application will have you looking your best.",
+          "duration": "45 min",
+          "image": "https://vlushelounge.com.au/wp-content/uploads/2023/03/7.png"
+        },
+        {
+          "name": "Formal Makeup Application",
+          "price": 49,
+          "description": "A make up application that includes enhanced make up techniques for a more dramatic look.",
+          "duration": "60 min",
+          "image": "https://cloudshopbd.com/wp-content/uploads/2023/08/71FDCybcySL._AC_UF8941000_QL80_FMwebp_.webp"
+        },
+        {
+          "name": "Cocktail Makeup",
+          "price": 55,
+          "description": "A make up application that includes enhanced make up techniques for a more dramatic look.",
+          "duration": "60 min",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcQ_zzkCT-BZbasW9MORVHxojMR0mMm3upxg&s"
+        },
+        {
+          "name": "Makeup Lesson",
+          "price": 150,
+          "description": "This informative and interactive hands-on experience is designed to educate you to achieve the look you've always wanted such as the perfect smoky eye.",
+          "duration": "2 hr 30 min",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN5vgLSbJygZIyVgp0rRcGPhgdIruiyRKsbw&s"
+        }
+    ],
+      "browServices": [
+ 
+        {
+          "category": "popular",
+          "name": "Brow Wax & Style",
+          "price": 29,
+          "description": "Includes a brow consultation, wax & style.",
+          "duration": "20 min",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ-nMiGv6MgK4s_ok0SSUMEA7kYPlOaBAn6A&s"
+        },
+        {
+          "name": "Brow Tweeze",
+          "price": 20,
+          "description": "Includes a brow consultation, tweeze & style.",
+          "duration": "20 min",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU6HqyB5k3VY5wqv8p0ek5v9_0uL-o9uy9hQ&s"
+        },
+        {
+          "category": "popular",
+          "name": "Bang Trim",
+          "price": 19,
+          "description": "A trim on the bang area. Shampoo, conditioner and scalp massage not included.",
+          "duration": "15 min",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdp4ISg_ALOjhVNhZYo79hIoZVa-UdStYNUA&s"
+        },
+        {
+          "name": "Brow Tint",
+          "price": 15,
+          "description": "A custom color tint for your brows that lasts 3-4 weeks.",
+          "duration": "20 min",
+          "image": "https://bonitabrowbar.com/cdn/shop/products/brow_tinting.jpg?v=1494359478"
+        }
+      ],
+      "nailServices": [
+        {
+          "name": "Cherie Manicure",
+          "price": 50,
+          "description": "Delicate cuticle work, buffing, and shaping. To finish, a relaxing hand massage, topped off with a perfect polish.",
+          "duration": "60 min",
+          "image": "https://i.pinimg.com/736x/bc/92/7e/bc927e56638c255f69a1bff23bdacb06.jpg"
+        },
+        {
+          "category": "popular",
+          "name": "Buff Manicure",
+          "price": 39,
+          "description": "Our natural look manicure – no polish, but all of the pampering.",
+          "duration": "20 min",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5wPs1_j80D43L2W-AlNVzppeB7oIh0h1uA&s"
+        },
+        {
+          "name": "Gel Manicure",
+          "price": 49,
+          "description": "All the features of our Cherie manicure, but finish with nontoxic Gel Polish instead.",
+          "duration": "40 min",
+          "image": "https://metro.co.uk/wp-content/uploads/2023/04/GettyImages-512995003.jpg?quality=90&strip=all&zoom=1&resize=644%2C429"
+        },
+        {
+          "category": "popular",
+          "name": "Cherie Pedicure",
+          "price": 39,
+          "description": "Our natural look pedi – no polish, but all of the pampering. Revitalize tired feet.",
+          "duration": "30 min",
+          "image": "https://cher-mere.ca/cdn/shop/products/iStock_000005793892Small.jpg?v=1588955674"
+        },
+        {
+          "name": "Buff Pedicure",
+          "price": 49,
+          "description": "Our natural look pedi – no polish, but all of the pampering. Revitalize tired feet.",
+          "duration": "30 min",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbXpRpTRZnWSaf1oxAr1IWUy9VFX-9Pb_kTg&s"
+        },
+        {
+          "name": "Gel Pedicure",
+          "price": 49,
+          "description": "All the features of our Cherie manicure, but finish with nontoxic Gel Polish instead.",
+          "duration": "60 min",
+          "image": "https://purespauk.com/cdn/shop/products/pure-essential-gel-pedicure-50-min.png?v=1660047443"
+        }
+      ]
+    
+  }
+
+ 

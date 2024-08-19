@@ -1,0 +1,13 @@
+.thero {
+  background-image: url(../../../assets/home/landing.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+  position: relative;
+  display: flex;
+  justify-content:left;
+  align-items: center;
+  background-attachment: scroll;
+  /* color:#8d8d8d80 */
+}
+
